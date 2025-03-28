@@ -2,7 +2,7 @@
   "name": "auto-import-shared-module",
   "displayName": "auto-import-shared-module",
   "description": "",
-  "version": "9.23.0",
+  "version": "9.24.0",
   "engines": {
     "vscode": "^1.98.0"
   },
