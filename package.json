@@ -2,6 +2,10 @@
   "name": "auto-import-shared-module",
   "displayName": "auto-import-shared-module",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tunimobhero/vscode"
+  },
   "version": "9.25.0",
   "engines": {
     "vscode": "^1.98.0"
