@@ -2,6 +2,7 @@
   "name": "auto-import-shared-module",
   "displayName": "auto-import-shared-module",
   "description": "",
+  "publisher": "tunimobhero",
   "repository": {
     "type": "git",
     "url": "https://github.com/tunimobhero/vscode"
